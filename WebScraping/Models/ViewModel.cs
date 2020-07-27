@@ -1,6 +1,5 @@
 ﻿namespace WebScraping.Models
 {
-
     public class ViewModel
     {
         public string Type { get; set; }
